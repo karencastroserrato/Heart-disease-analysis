@@ -26,7 +26,7 @@ ca | Number of major vessels (0-3) colored by flourosopy
 thal | 0 = normal; 1 = fixed defect; 2 = reversable defect
 targer | 0 = less chance of heart attack, 1 = more chance of heart attack 
   
-- The dataset can be find on Kaggle. 
+- Heart Disease Dataset - Kaggle: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 **You must have installed:**
 - Pandas
